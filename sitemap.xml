@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://saundaryaskinclinic.com/index.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://saundaryaskinclinic.com/assets/images/logo.png</image:loc>
+      <image:title>सौंदर्य Skin Clinic &amp; Laser Centre Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://saundaryaskinclinic.com/assets/images/hydrafacial.jpg</image:loc>
+      <image:title>Hydrafacial Treatment at सौंदर्य Clinic</image:title>
+    </image:image>
+  </url>
+
+  <!-- Services & Treatments Page -->
+  <url>
+    <loc>https://saundaryaskinclinic.com/services.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://saundaryaskinclinic.com/assets/images/lhr-clinic-operation.jpg</image:loc>
+      <image:title>Diode Laser Hair Reduction in Bhavnagar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://saundaryaskinclinic.com/assets/images/prp-treatment.jpg</image:loc>
+      <image:title>PRP Hair Loss Therapy Bhavnagar</image:title>
+    </image:image>
+  </url>
+
+  <!-- Doctors Profile Page -->
+  <url>
+    <loc>https://saundaryaskinclinic.com/doctors.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://saundaryaskinclinic.com/assets/images/dr-dharmin-patel.jpg</image:loc>
+      <image:title>Dr. Dharmin Patel MBBS PGDCD Dermatologist Bhavnagar</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://saundaryaskinclinic.com/assets/images/dr-ankita-patel.jpg</image:loc>
+      <image:title>Dr. Ankita Patel BHMS Cosmetologist Bhavnagar</image:title>
+    </image:image>
+  </url>
+
+  <!-- Contact Us & Book Appointment -->
+  <url>
+    <loc>https://saundaryaskinclinic.com/contact.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- About Us Page -->
+  <url>
+    <loc>https://saundaryaskinclinic.com/about.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Our Vision Page -->
+  <url>
+    <loc>https://saundaryaskinclinic.com/vision.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>
