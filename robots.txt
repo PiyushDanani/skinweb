@@ -1,0 +1,26 @@
+# Robots.txt for सौंदर्य Skin Clinic & Laser Centre (Bhavnagar)
+# Optimized for Google, Bing, Yandex, Yahoo, DuckDuckGo & AI Crawlers (GPTBot, PerplexityBot, ClaudeBot, Google-Extended)
+
+User-agent: *
+Allow: /
+Disallow: /assets/css/
+Disallow: /assets/js/
+
+# Explicit permissions for AI Generative Search Engines (GEO & AEO)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap Location
+Sitemap: https://saundaryaskinclinic.com/sitemap.xml
